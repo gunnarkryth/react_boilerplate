@@ -1,5 +1,2 @@
 @echo off
-
-npm install
-npm install sass
-npm run dev
+start "" cmd /c "npm install && npm install sass && npm run dev"
