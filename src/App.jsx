@@ -1,10 +1,8 @@
-import "./assets/styles/App.css";
+import "./assets/styles/App.scss";
+import { Wrapper } from "./components/Wrapper/Wrapper";
 
 function App() {
-  return (
-    <>
-    </>
-  );
+  return <Wrapper></Wrapper>;
 }
 
 export default App;
