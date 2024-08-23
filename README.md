@@ -1,1 +1,1 @@
-# Remember to write "npm install" & "npm install sass" & "npm run dev" in terminal
+# Run setup.bat to install dependencies and open server.
